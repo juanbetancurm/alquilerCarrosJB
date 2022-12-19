@@ -1,0 +1,28 @@
+h1{
+    color :darkgreen;
+}
+
+body{
+    background-color:ghostwhite;
+}
+
+input{
+    border-color: black;
+}
+
+button{
+    background-color: darkslategrey;
+    color:aliceblue
+}
+
+button:hover {
+    background-color: darkcyan;
+}
+
+a {
+    text-decoration:none;
+}
+
+a:hover {
+    color: blue;
+}
